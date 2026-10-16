@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archivefourtytwo.github.io/daily-design-news/sitemap.xml
